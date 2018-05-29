@@ -1,0 +1,35 @@
+{
+    "name": "Roberto Amaran",
+    "phone": "48752934",
+    "address": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+    "students": [
+        { 
+            "name": "Alien Padilla Rodriguez",
+            "age": 33,
+            "sex": "male",
+            "phone":"48752934",
+            "address": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        },
+        { 
+            "name": "Arletys Rivera Gerreiro",
+            "age": 27,
+            "sex": "female",
+            "phone":"48752934",
+            "address": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        },
+        { 
+            "name": "Pavel Jesus Padilla Rivera",
+            "age": 3,
+            "sex": "male",
+            "phone":"48752934",
+            "address": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        },
+        { 
+            "name": "Danisel Padilla Rodriguez",
+            "age": 30,
+            "sex": "female",
+            "phone":"48752934",
+            "address": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        }
+    ]
+}
